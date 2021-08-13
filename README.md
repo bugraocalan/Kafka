@@ -1,5 +1,5 @@
 # Kafka
-Kafka with 2 consumer on .net 5
+Kafka with 2 consumers on .net 5
 
 
 install zookeeper
